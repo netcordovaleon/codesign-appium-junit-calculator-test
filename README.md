@@ -35,7 +35,11 @@ Response:
 
 If you use your real cellphone, you should connect with USB and Check "USB Debugging = ENABLE"
 
-After that run JUnitTest with IDE IntelliJ or another.
+After that run JUnitTest with IDE IntelliJ or another or run this command:
+
+```java
+mvn clean install
+```
 
 ## License
 NO LICENCES
